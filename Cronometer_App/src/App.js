@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import Allroute from "./pages/Allroute.jsx"
+import AllRoutes from "./pages/AllRoutes.jsx"
 
 
 function App() {
   return (
     <div >
-      <Allroute/>
+      <AllRoutes />
     </div>
   );
 }
