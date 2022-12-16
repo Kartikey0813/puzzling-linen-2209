@@ -1,19 +1,20 @@
 .navbar {
-    height: 100px;
+    height: 120px;
     width: 100%;
     
 }
 
 .navbody {
-    width: 60%;
+    width: 84%;
     height: 100px;
     margin: auto;
     display: flex;
-   
+    margin-top: 10px;
+    justify-content: space-between;
 }
 
 .logo {
-    width: 25%;
+    width: 50%;
     height: 100px;
     display: flex;
     align-items: center;
@@ -21,7 +22,7 @@
  
 }
 
-.routbody{
+.Routebody{
     width: 75%;
     height: 100px;
     display: flex;
@@ -45,11 +46,11 @@
    justify-content: space-between;
 }
 
-    .routbody {
+    .Routebody {
       display: none;
     }
     .logo {
-        width: 25%;
+        width: 45%;
         height: 100px;
         display: flex;
         align-items: center;
@@ -62,9 +63,7 @@
        
     }
     .toglebtnofhamburg{
-        height: 35px;
-        width: 35px;
-        background-color: aqua;
+        color: aqua;
     }
     .hamburgermenu{
         display: block;
@@ -78,6 +77,6 @@
     .hamtop{
         height: 50px;
         width: 100%;
-        background-color: aliceblue;
+        color: aliceblue;
     }
-}
+}    
