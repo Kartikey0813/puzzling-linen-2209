@@ -27,16 +27,16 @@ export const AuthContextProvider=({children})=>{
     const [Users,setusers]=useState([])
 
     const Login=(data)=>{
-      let papa=getuser(data)
-      if(papa!==undefined){
-         alert("user dident exist please signup...")
+      let value = getuser(data)
+      if(value !== undefined){
+         alert("OOPS :( - Please Register to continue")
 
       }
       else{
-         alert("login sucsessfull...")
+         alert("Welcome Back - Let's Rock On Today")
          setIsAuth(true)
-         setToken("papa.email")
-         navigate("/product")
+         setToken("value.email")
+         navigate("/Product")
       }
         
       
@@ -68,8 +68,8 @@ export const AuthContextProvider=({children})=>{
                 food:[],
               }
             });
-            alert("User registration succsesfull...")
-                   navigate("/login")
+            alert("That's the Spirit - Lets Go now")
+                   navigate("/Login")
               
 
      

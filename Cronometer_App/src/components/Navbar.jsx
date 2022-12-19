@@ -17,11 +17,11 @@ function Navbar() {
         </div>
         <div className="Routebody">
           <ButtonGroup gap='1' pl="200px">
-            <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link to="/product">Product</Link></Button>
+            <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link to="/Product">Product</Link></Button>
             <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link >Support</Link></Button>
             <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link > Blog</Link></Button>
             <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link >Forum</Link></Button>
-            <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link to="/aboute">About</Link></Button>
+            <Button color="black" bg="white" fontWeight={430} maxW="100px" fontSize={19}><Link to="/About">About</Link></Button>
             <Button colorScheme='white' fontWeight={470} fontSize="18px" border="1px" padding="10px 29px" borderColor="black" color="black"><Link to="/login">LOG IN</Link></Button>
           </ButtonGroup>
         </div>
