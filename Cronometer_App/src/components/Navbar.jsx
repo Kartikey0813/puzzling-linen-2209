@@ -9,11 +9,7 @@ function Navbar() {
     <div className="navbar">
       <div className="navbody">
         <div className="logo">
-          <Image style={{width:"69%"}}
-              src="https://cdn1.cronometer.com/webflow/Cronometer-Logo---Mandarin.svg"
-              W="60%"
-              alt="logo"
-            />
+          <h1 className="logo_name">Calomate</h1>
         </div>
         <div className="Routebody">
           <ButtonGroup gap='1' pl="200px">

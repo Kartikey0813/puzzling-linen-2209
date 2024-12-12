@@ -22,6 +22,12 @@
  
 }
 
+.logo_name {
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .Routebody{
     width: 75%;
     height: 100px;
