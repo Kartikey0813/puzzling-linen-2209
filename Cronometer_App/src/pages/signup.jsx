@@ -366,10 +366,10 @@ function Signup() {
               agree to our <Link color="red">Terms of Service</Link>  and  <Link color="red">Privacy Policy.</Link>
             </Text>
             <Checkbox color="black" border="black" size='sm'>
-              I agree to the cronometer.com <Link color="red">Terms of Service.</Link>
+              I agree to the Calomate.com <Link color="red">Terms of Service.</Link>
             </Checkbox>
             <Text color="black" fontSize="14px" fontWeight="bold">
-              In order to give you the best experience using Cronometer, we need
+              In order to give you the best experience using Calomate, we need
               certain data permissions. (These are optional and can be updated
               in your settings any time.).
             </Text>

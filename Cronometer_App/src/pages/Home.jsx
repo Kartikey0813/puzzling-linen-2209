@@ -51,7 +51,7 @@ function Home() {
           </Box>
 
           <Box w="50%">
-            <iframe width="632" height="394" src="https://www.youtube.com/embed/4iJYKW826RQ" title="Cronometer. Eat smarter. Live better." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="632" height="394" src="https://www.youtube.com/embed/4iJYKW826RQ" title="Calomate. Eat smarter. Live better." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </Box>
         </Flex>
       </Container>
@@ -232,7 +232,7 @@ function Home() {
           fontSize="20px"
           
         >
-          Cronometer encourages you to not just count your calories but to focus
+          Calomate encourages you to not just count your calories but to focus
           on your nutrition as a whole.
         </Text>
         <div style={{display:"flex"}}>
@@ -368,7 +368,7 @@ function Home() {
         marginBottom="50px"
       >
         <Text color="blackAlpha.800" fontSize="42px" as="b">
-          Cronometer Review
+          Calomate Review
         </Text>
 
         
@@ -431,7 +431,7 @@ function Home() {
             {" "}
             <Text
               fontSize="20px" maxW="90%" color="#005c5c"  mt="50px" fontWeight="500" marginRight="-30px">
-              Whether that's bodybuilding, weight loss, endurance training, or just maintenance – everyone should be using Cronometer.
+              Whether that's bodybuilding, weight loss, endurance training, or just maintenance – everyone should be using Calomate.
             </Text>
             <Image
               src="https://cdn1.cronometer.com/2021/landing/android-icon.svg"

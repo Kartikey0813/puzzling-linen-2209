@@ -34,7 +34,7 @@ return (
                 />
     </Box>
     <Box w="25%" h="100%" >
-            <Text mt="50px" color="white"  fontSize="20px" fontWeight="700">Cronometer</Text>
+            <Text mt="50px" color="white"  fontSize="20px" fontWeight="700">Calomate</Text>
             <Text mt="20px" color="white" fontSize="17px">For Individuals</Text>
             <Text mt="20px" color="white" fontSize="17px">For Professionals</Text>
             <Text mt="20px" color="white" fontSize="17px">Privacy</Text>
